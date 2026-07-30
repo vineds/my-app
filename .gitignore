@@ -1,0 +1,9 @@
+node_modules/
+data/*.sqlite
+data/*.sqlite-journal
+uploads/avatars/*
+!uploads/avatars/.gitkeep
+client/dist/
+.env
+*.log
+.DS_Store
