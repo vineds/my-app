@@ -11,6 +11,7 @@ direct database testing — against a realistic-but-small app you run entirely o
 ## Quick start
 
 ```bash
+npm install            # installs root dependencies (concurrently)
 npm run install:all   # installs server + client dependencies
 npm run dev            # runs the API (port 3000) and the Vite dev server (port 5173) together
 ```
